@@ -1,5 +1,7 @@
 # School_District_Analysis
 # Overview of the School District Analysis
+Cheating has been suspected for 9th grade students at Thomas High School.  Therefore, the school board would like me to remove the 9th grade math and reading scores from the school data and re-run the school district analysis.  I will also analyze how removing those scores affects the statistics.  The 9th grade students only made up approximately 1% of the total students, so I wouldn't expect the scores and statistics to change significantly.  
+
 # Results
 
 **1.  District Summmary:**
@@ -33,15 +35,7 @@ School Summary New:
 
 
 **3.  How does replacing 9th graders math and reading scores affect Thomas High School's performance relatvie to the other schools?**
-
-Old School Summary:
-
-![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/old%20school%20summary.png)
-
-
-New School Summary:
-
-![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20school%20summary.png)
+The images above relate to 
 
 
 
@@ -118,3 +112,5 @@ Scores by school type new:
 
 
 # Summary
+
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
