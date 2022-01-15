@@ -5,7 +5,7 @@ Cheating has been suspected for 9th grade students at Thomas High School.  There
 # Results
 
 **1.  District Summmary:**
-At a rounded data level, the district summary numbers do not appear to have changed.  This is because of the large amount of students in the district.  However, when analyzing the district summary numbers with more decimals included in the images, as shown below, the numbers do change.  The average math score went down slightly from 78.985371 to 78.93053 and the average reading score also went down slightly from 81.87784 to 81.8558.  See image support below.
+At a rounded data level, the district summary numbers do not appear to have changed.  This is because of the large amount of students in the district.  However, when analyzing the district summary numbers with more decimals included in the images, as shown below, the numbers do change.  At a district level, the average math score went down slightly from 78.985371 to 78.93053 and the average reading score also went down slightly from 81.87784 to 81.8558.  See image support below.
 
 District Summary Old Rounded:
 
@@ -115,5 +115,8 @@ Scores by school type new:
 
 
 # Summary
-
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1.  At a district level, the average math score went down slightly from 78.985371 to 78.93053 and the average reading score also went down slightly from 81.87784 to 81.8558.
+2.  The $630 to $644 spending range saw minimal decreases in average math score, % passing math, % passing reading and % overall passing and a minimal increase in average reading score.
+3. The medium school size saw minimal decreases in average math score, % passing math, % passing reading and % overall passing and a minimal increase in average reading score. 
+4.  The charter school type saw minimal decreases in average math score, % passing math, % passing reading and % overall passing and a minimal increase in average reading score.
