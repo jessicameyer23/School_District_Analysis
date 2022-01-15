@@ -2,7 +2,7 @@
 # Overview of the School District Analysis
 # Results
 
-1.  District Summmary:
+**1.  District Summmary:**
 
 District Summary Old Rounded:
 
