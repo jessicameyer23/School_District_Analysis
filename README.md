@@ -5,6 +5,7 @@ Cheating has been suspected for 9th grade students at Thomas High School.  There
 # Results
 
 **1.  District Summmary:**
+At a rounded data level, the district summary numbers do not appear to have changed.  This is because of the large amount of students in the district.  However, when analyzing the district summary numbers with more decimals included in the images, as shown below, the numbers do change.  The average math score went down slightly from 78.985371 to 78.93053 and the average reading score also went down slightly from 81.87784 to 81.8558.  See image support below.
 
 District Summary Old Rounded:
 
@@ -23,7 +24,10 @@ District Summary New Non-Rounded:
 ![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20district%20summary%20detailed.png)
 
 ****
-**2.  School Summary:**
+**2 and 3.  School Summary:**
+**How does replacing 9th graders math and reading scores affect Thomas High School's performance relative to the other schools?**
+In the old school summary, Thomas High school had an average math score of 83.418349 and average reading score of 83.848930.  In the new school summary, Thomas High School had an average math score of 83.350937 and an average reading score of 83.896082.  The average math score for Thomas decreased slightly from 83.418349 to 83.350937.  The average reading score increased slightly from 83.848930 to 83.896082.  See image support below.  
+
 
 School Summary Old:
 
@@ -34,13 +38,10 @@ School Summary New:
 ![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20school%20summary.png)
 
 
-**3.  How does replacing 9th graders math and reading scores affect Thomas High School's performance relatvie to the other schools?**
-The images above relate to 
-
-
 
 
 **4.  How does replacing the ninth-grade scores affect math and reading scores by grade**?
+For ninth-grade the only school affected was Thomas High Schoool, which saw the its grade replaced from their original overall averages of 83.580022 for math and 83.728850 for reading to NaN for both math and reading.  Every other grade remained the same for Thomas High School.  Every grade remained the same for the other schools.  See image support below.  
 
 Old Math by grade:
 
@@ -62,6 +63,7 @@ New Reading by Grade:
 
 
 **5.  How does replacing the ninth-grade scores affect scores by school spending?**
+The only impacted range was $630 to $644 because that was the range that Thomas High School was included in.  All other ranges stayed the same.  The $630 to $644 spending range saw minimal decreases in average math score, % passing math, % passing reading and % overall passing and a minimal increase in average reading score.  See image support below.
 
 Scores by school spending old:
 
@@ -78,6 +80,7 @@ Scores by school spending new:
 
 
 **6.  How does replacing the ninth-grade scores affect scores by school size?**
+The only impacted range was the medium school size because that was the range that Thomas High School was included in.  All other ranges stayed the same.  The medium school size saw minimal decreases in average math score, % passing math, % passing reading and % overall passing and a minimal increase in average reading score.  See image support below.
 
 Scores by school size old:
 
@@ -97,7 +100,7 @@ Scores by school size new:
 
 
 **7.  How does replacing the ninth-grade scores affect scores by school type?**
-
+The change only affected the Charter School category since Thomas High School is a charter school.  The charter school type saw minimal decreases in average math score, % passing math, % passing reading and % overall passing and a minimal increase in average reading score.  See image support below.
 
 Scores by school type old:
 ![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/old%20scores%20by%20school%20type.png)
