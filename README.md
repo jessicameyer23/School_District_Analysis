@@ -34,27 +34,35 @@ School Summary New:
 
 **3.  How does replacing 9th graders math and reading scores affect Thomas High School's performance relatvie to the other schools?**
 
-Math Scores Old:
+Old School Summary:
 
-![image_name]
+![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/old%20school%20summary.png)
 
-Math Scores New:
-![image_name]
 
-Reading Scores Old:
-![image_name]
+New School Summary:
 
-Reading Scores New:
-![image_name]
+![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20school%20summary.png)
+
+
 
 
 **4.  How does replacing the ninth-grade scores affect math and reading scores by grade**?
 
-Math and Reading scores by grade old:
+Old Math by grade:
 
 ![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/old%20math%20by%20grade.png)
 
-Math and Reading scores by grade new:
+
+New Math by Grade:
+
+![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20math%20by%20grade.png)
+
+Old Reading by Grade:
+
+![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/old%20reading%20by%20grade.png)
+
+
+New Reading by Grade:  
 
 ![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20reading%20by%20grade.png)
 
