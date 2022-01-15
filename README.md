@@ -12,15 +12,15 @@ District Summary New Rounded:
 
 District Summary New Non-Rounded:
 
-
-2.  School Summary:
+****
+**2.  School Summary:**
 
 School Summary Old:
 
 School Summary New:
 
 
-3.  How does replacing 9th graders math and reading scores affect Thomas High School's performance relatvie to the other schools?
+**3.  How does replacing 9th graders math and reading scores affect Thomas High School's performance relatvie to the other schools?**
 
 Math Scores Old:
 
@@ -31,14 +31,14 @@ Reading Scores Old:
 Reading Scores New:
 
 
-4.  How does replacing the ninth-grade scores affect math and reading scores by grade?
+**4.  How does replacing the ninth-grade scores affect math and reading scores by grade**?
 
 Math and Reading scores by grade old:
 
 Math and Reading scores by grade new:
 
 
-5.  How does replacing the ninth-grade scores affect scores by school spending?
+**5.  How does replacing the ninth-grade scores affect scores by school spending?**
 
 Scores by school spending old:
 
@@ -50,7 +50,7 @@ Scores by school spending new:
 
 
 
-6.  How does replacing the ninth-grade scores affect scores by school size?
+**6.  How does replacing the ninth-grade scores affect scores by school size?**
 
 Scores by school size old:
 
@@ -66,7 +66,7 @@ Scores by school size new:
 
 
 
-7.  How does replacing the ninth-grade scores affect scores by school type?
+**7.  How does replacing the ninth-grade scores affect scores by school type?**
 
 
 Scores by school type old:
