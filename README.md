@@ -41,7 +41,7 @@ School Summary New:
 
 
 **4.  How does replacing the ninth-grade scores affect math and reading scores by grade**?
-For ninth-grade the only school affected was Thomas High Schoool, which saw the its grade replaced from their original overall averages of 83.580022 for math and 83.728850 for reading to NaN for both math and reading.  Every other grade remained the same for Thomas High School.  Every grade remained the same for the other schools.  See image support below.  
+For ninth-grade the only school affected was Thomas High Schoool, which saw the its grade replaced from their original overall averages of 83.590022 for math and 83.728850 for reading to NaN for both math and reading.  Every other grade remained the same for Thomas High School.  Every grade remained the same for the other schools.  See image support below.  
 
 Old Math by grade:
 
