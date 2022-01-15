@@ -98,11 +98,11 @@ Scores by school size new:
 
 
 Scores by school type old:
-![image_name]
+![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/old%20scores%20by%20school%20type.png)
 
 
 Scores by school type new:
-![image_name]
+![image_name](https://github.com/jessicameyer23/School_District_Analysis/blob/main/Challenge%204%20Images/new%20scores%20by%20school%20type.png)
 
 
 
